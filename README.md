@@ -1,5 +1,5 @@
 # SLACKGIF
-## A bot for posting annoying gifs (at your command)  into your slack channel
+### A bot for posting annoying gifs (at your command)  into your slack channel
 
 
 ### HOWTO:
